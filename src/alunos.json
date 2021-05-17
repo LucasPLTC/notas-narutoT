@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "nome": "Naruto ",
+    "picture": "images/naruto.png",
+    "idade": 3,
+    "matricula": "1621913BCC",
+    "disciplina":"s"
+  },
+  {
+    "id": 1,
+    "nome": "Sasuke",
+    "picture": "images/sasuke.png",
+    "idade": 3,
+    "matricula": "Scottish Terrier",
+    "disciplina": "TESTE"
+  },
+  {
+    "id": 2,
+    "nome": "Sakura",
+    "picture": "images/sakura.png",
+    "idade": 2,
+    "matricula": "French Bulldog",
+    "disciplina": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "nome": "Kakashi",
+    "picture": "images/kakashi.png",
+    "idade": 2,
+    "matricula": "Boxer",
+    "disciplina": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "nome": "Shikamari",
+    "picture": "images/shikamaru.png",
+    "idade": 2,
+    "matricula": "French Bulldog",
+    "disciplina": "Gerber, South Dakota"
+  }  ,
+  {
+    "id": 5,
+    "nome": "Chouji",
+    "picture": "images/chouji.png",
+    "idade": 3,
+    "matricula": "French Bulldog",
+    "disciplina": "Innsbrook, Illinois"
+  }
+]
