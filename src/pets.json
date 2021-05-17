@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/scottish-terrier.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/scottish-terrier.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/french-bulldog.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/boxer.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/french-bulldog.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/french-bulldog.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/golden-retriever.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/golden-retriever.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/french-bulldog.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/boxer.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/boxer.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/scottish-terrier.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/french-bulldog.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/golden-retriever.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/golden-retriever.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/golden-retriever.jpeg",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  }
+]
